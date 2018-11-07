@@ -2,7 +2,6 @@ Didibaba.com
 ============
 
 <!--<img src="https://user-images.githubusercontent.com/1016365/34124854-48fafa06-e3e9-11e7-8c04-251055feebee.png" />-->
-<img src="./images/snap1.png" />
 
 
 2000年上海嘀嘀吧吧网站(didibaba.com)， 曾想做国内最大的汽车电商网站。
@@ -20,3 +19,13 @@ Back-end: jsp ,servelet
 Highly recommand view this prototype under ie8-.
 
 建议在ie8或ie6及以下浏览器打开此网站。
+
+<img src="./images/snap1.png" />
+<img src="./images/snap2.png" />
+<img src="./images/snap3.png" />
+<img src="./images/snap4.png" />
+<img src="./images/snap5.png" />
+<img src="./images/snap6.png" />
+<img src="./images/snap7.png" />
+<img src="./images/snap8.png" />
+<img src="./images/snap9.png" />
