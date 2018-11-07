@@ -15,4 +15,4 @@ Back-end: jsp ,servelet
 
 Highly recommand view this prototype under ie8-.
 
-建议在ie8以下浏览器浏览此网站原型。
+建议在ie8或ie6及以下浏览器打开此网站。
